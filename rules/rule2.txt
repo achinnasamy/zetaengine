@@ -1,0 +1,3 @@
+[ "OR",
+    ["IN", "event.category", ["infant","child","teen"]], ["LT", "user.age", 18]
+]

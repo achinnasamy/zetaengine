@@ -1,0 +1,2 @@
+[ "AND",
+    ["IN", "user.address.city", ["Sanfrancisco","Bangalore","Colombo"]], ["LT", "user.address.age", 10]]

@@ -1,0 +1,10 @@
+{
+    "user" : {
+        "address" :  {
+            "address_line" : "XYZ Street",
+            "city" : "LOS_ANGELS",
+            "state" : "CA",
+            "zipcode" : "94350"
+        }
+    }
+}

@@ -1,0 +1,3 @@
+[ "NOT",
+    ["IN", "user.address.zipcode", [95100,94650,97180]]
+]

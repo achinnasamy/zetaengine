@@ -1,0 +1,11 @@
+{
+    "user" : {
+        "address" :  {
+            "address_line" : "XYZ Street",
+            "city" : "Sanfrancisco",
+            "state" : "CA",
+            "zipcode" : "94150",
+            "age": "55"
+        }
+    }
+}
